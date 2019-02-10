@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "503017324180",
+    "firebase_url": "https://tartaneats.firebaseio.com",
+    "project_id": "tartaneats",
+    "storage_bucket": "tartaneats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503017324180:android:63a4c308fd9d5ca2",
+        "android_client_info": {
+          "package_name": "com.example.tartaneatsv20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503017324180-mdrcta3ntfik9qp2uhknmp669sjnfmgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABEcqN8DjX5Qo7vupvHs8HfeyBjf0zVHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
